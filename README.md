@@ -16,7 +16,7 @@
 ### Архитектура
 
 <p align="center">
-  <img src="image.png" alt="Architecture Diagram" />
+  <img src="image.jpg" alt="Architecture Diagram" />
 </p>
 
 ## Установка
