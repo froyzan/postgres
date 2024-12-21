@@ -56,4 +56,4 @@
   kubectl exec -it <имя_пода> -- bash
   psql -U postgres -d postgres
 ```
-Вставьте и выполните SQL-скрипт из create_test.sql
+Вставьте и выполните SQL-скрипт из `create_test.sql`.
