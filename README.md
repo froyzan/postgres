@@ -35,12 +35,13 @@
 ```
 
 Найдите IP-адрес, связанный с сервисом `pgadmin-service`, и откройте его в браузере. Войдите в систему, используя следующие учетные данные:
-`pgadmin` : <http://localhost:5050/>
+
 - **Email**: `admin@admin.com`
 - **Пароль**: `admin`
 
+`pgadmin` : <http://localhost:5050/>
 <p align="center">
-  <img src="pgadmin.png" alt="pgAdmin4" />
+  <img src="pgadmin.jpg" alt="pgAdmin4" />
 </p>
 
 ### Подключение к PostgreSQL
